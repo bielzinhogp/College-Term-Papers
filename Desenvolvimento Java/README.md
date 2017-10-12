@@ -3,7 +3,7 @@
 # Projeto: BatCommerce
 
   #### Autor: Gabriel Guimarães
-  #### Curso: Sistemas de Informação
+  #### Curso: Sistemas de Informação (Negócios e Gestão)
 
 #### Esse é um sistema de vendas de blusas, canecas, adesivos e outros produtos que fazem parte da categoria nerd e geek. Esse projeto tem como objetivo suprir a atual demanda de produtos destinados a públicos aficcionados pela cultura nerd, geek e tecnológica.
 
@@ -53,7 +53,7 @@
 # Project: BatCommerce
    
    #### Author: Gabriel Guimarães
-   #### Course: Information Systems
+   #### Course: Information Systems (Business and Management)
    
 #### This is a system of sales of shirts, mugs, stickers and other products that are part of the geek and nerd category. This project aims to meet the current demand for products aimed at audiences nerd, geek and technological culture.
 
