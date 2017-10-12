@@ -55,6 +55,8 @@
    #### Author: Gabriel Guimarães
    #### Course: Information Systems
    
+#### This is a system of sales of shirts, mugs, stickers and other products that are part of the geek and nerd category. This project aims to meet the current demand for products aimed at audiences nerd, geek and technological culture.
+
 ## Skills acquired in Project Management: 
    
 ###### -Understand the phases of requirements engineering
