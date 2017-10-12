@@ -5,6 +5,8 @@
   #### Autor: Gabriel Guimarães
   #### Curso: Sistemas de Informação
 
+#### Esse é um sistema de vendas de blusas, canecas, adesivos e outros produtos que fazem parte da categoria nerd e geek. Esse projeto tem como objetivo suprir a atual demanda de produtos destinados a públicos aficcionados pela cultura nerd, geek e tecnológica.
+
 ## Habilidades adquiridas em Gerenciamento de Projetos: 
 
 ###### -Compreender as fases da engenharia de requisitos
