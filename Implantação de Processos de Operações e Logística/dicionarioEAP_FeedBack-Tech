@@ -1,0 +1,31 @@
+1.	Feedback Tech
+1.1.	Planejamento de projeto
+1.1.1.	Iniciação: Nessa fase serão compreendidas as primeiras informações sobre o projeto, será definido o escopo, tempo e custo de realização.
+1.1.2.	Organização e preparação: Chegar nessa etapa significa que o projeto foi aprovado, portanto, aqui os modelos e mensuração de objetivos devem se tornar mais maduros.
+1.1.3.	Execução do trabalho do projeto: Nessa etapa devemos assegurar o acompanhamento das atividades e o registro das entregas. 
+1.1.4.	Encerramento do planejamento de projeto: Nessa parte o modelo de projeto deve estar de acordo com o que foi definido pelo cliente, tendo assim um aceite formal.
+
+1.2.	Implantação do projeto SAP
+1.2.1.	Preparação do projeto: Esse é o momento onde o escopo é definido, detalhado e estimado para a implantação do SAP.
+1.2.2.	Business BluePrint: Nesse momento da metodologia ASAP os analistas funcionais devem levantar e detalhar os requisitos de negócio e processos, tudo deve ser documento e consolidado. 
+1.2.3.	Realização: Nesse momento do ASAP, a análise funcional realizada anteriormente é traduzida para o ambiente do SAP. Os processos e requisitos são configurados ou adaptados e implementados no sistema. 
+1.2.4.	Preparação final: A fase de preparação final trata os últimos ajustes, testes e verificações. O sistema poderá ir para a Go-Live após as verificações atenderem ao nível de estabilidade esperado.
+1.2.5.	Go live e suporte: Última fase da metodologia ASAP, é nesse momento que o sistema é colocado em produção e suportado.
+
+1.3.	Planejamento de controle e produção
+1.3.1.	Previsão da demanda e previsão de vendas: Aqui iremos realizar uma previsão da demanda e saber o quanto irá vender para com isso calcular a sua demanda de produção. 
+1.3.1.1.	Planejamento de curto prazo: O planejamento de curto prazo tem como objetivo prever as questões de estoque, o equivalente a seis meses ou dois anos. 
+1.3.1.2.	Planejamento de longo prazo: O planejamento de longo prazo deve ser feito para cinco anos ou mais, pois envolve ampliar a capacidade de produção, desenvolver novos produtos ou alterar a linha de outros já existentes. 
+1.3.2.	Planejamento de capacidade de produção: Após a previsão de demanda é mais fácil ocorrer uma previsão da capacidade de produção a médio e longo prazo, onde o planejamento é muito importante para que novas aquisições de máquinas e matérias primas sejam conquistadas. 
+1.3.3.	Planejamento de materiais: Nessa etapa é realizado uma previsão da quantidade exata de materiais que serão necessários para a produção.
+
+1.4.	Produção de coleção
+1.4.1.	Planejamento: Nessa etapa será dado os primeiros passos iniciais para o desenvolvimento do produto, como desenho e definição de cores para o produto.
+1.4.1.1.	Protótipo: Nessa fase o projeto começa a tomar forma através de um modelo conceptual.
+1.4.1.2.	Requisitos: Aqui o projeto irá começar a ganhar personalidade, como suas funções principais, o que deve ou não fazer.
+
+1.4.2.	Fabricação
+1.4.2.1.	Licenças e registros: 
+1.4.2.2.	Montagem: 
+1.4.2.3.	Testes de qualidade: 
+
